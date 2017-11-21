@@ -10,3 +10,7 @@ The output is a text file containing the list of translation.
 
 ## `map_word(to_translate, from_language)`
 This function calls `mtranslate` and maps (quite literally) the translations to the languages areas, based on the file `Simplified_Languages_of_Europe_map_base.svg`.
+
+## Example
+If you do not pass any argument, the functions map the word "love" from English, for the following result:
+!["love" in Europe](/blob/master/Simplified_Languages_of_Europe_map_love.svg)
