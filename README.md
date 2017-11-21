@@ -13,4 +13,4 @@ This function calls `mtranslate` and maps (quite literally) the translations to 
 
 ## Example
 If you do not pass any argument, the functions map the word "love" from English, for the following result:
-!["love" in Europe](/blob/master/Simplified_Languages_of_Europe_map_love.svg)
+!["love" in Europe](Simplified_Languages_of_Europe_map_love.svg?raw=true)
